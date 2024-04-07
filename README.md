@@ -10,11 +10,11 @@ Created a common README File - VerPROJECT
 
 - [ProjectName](#Project)
 - [TeamIntrtroduction](#TeamIntrtroduction)
-- [HowToWork](#How To Work)
+- [HowToWork](#HowToWork)
 - [ProjectSettings](#ProjectSettings)
 - [ProjectNamingConvention](#ProjectNamingConvention)
 - [Usage](#Usage)
-- [ReferenceDocument](#Reference Document)
+- [ReferenceDocument](#ReferenceDocument)
 
 # Project
 
@@ -25,6 +25,8 @@ Created a common README File - VerPROJECT
 - 해당 프로젝트에 대한 설명
 
 ## Project Skill
+
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 # Team Intrtroduction
 
